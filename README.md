@@ -12,7 +12,7 @@ The template utilizes two official plugins:
 To get started with this template, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/1sAndZeros/vite-react-starter my-app
+cd my-app
 npm install
 ```
